@@ -1,0 +1,57 @@
+.circel {
+    background-color: black;
+    position: relative;
+}
+
+.flag {
+    border: 2px solid red;
+    width: 900px;
+    height: 600px;
+}
+
+.kesariya {
+    background-color: orangered;
+    padding: 20px;
+    height: 200px;
+}
+
+.white {
+    background-color: whitesmoke;
+    padding: 20px;
+    height: 100px;
+}
+
+.green {
+    background-color: green;
+    padding: 20px;
+    height: 180px;
+}
+
+.kesariya h1 {
+    text-align: center;
+    font-size: 200px;
+    margin: 0px;
+}
+
+.wheel {
+    position: relative;
+    margin-top: 15px;
+    bottom: 177px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20%;
+    height: 77%;
+    background-color:black;
+    border-radius: 50%;
+    border: 2px solid red;
+}
+
+.wheel p{
+    font-style: oblique;
+    text-align: center;
+    color: white;
+    position: relative;
+    font-size: 44px;
+
+    
+}
